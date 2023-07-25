@@ -1,0 +1,27 @@
+.footer {
+    background-color: #00b3b3;
+    color: white;
+    text-align: right;
+    position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+}
+
+.footerBtnDiv {
+    width: 44%;
+    height: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    border: 1px;
+}
+
+.footerBtnDiv a { color: white; }
+.footerBtnDiv a:visited { color: white; }
+.footerBtnDiv a:hover { color: white; }
+.footerBtnDiv a:active { color: white; }

@@ -1,0 +1,12 @@
+.header {
+    background-color: #00b3b3;
+}
+
+.header h1 {
+    margin:0;
+}
+
+.header a { color: white; }
+.header a:visited { color: white; }
+.header a:hover { color: white; }
+.header a:active { color: white; }
